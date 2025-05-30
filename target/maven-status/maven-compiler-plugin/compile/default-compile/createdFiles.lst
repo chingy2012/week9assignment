@@ -1,0 +1,5 @@
+mavenProject\Test.class
+projects\dao\DbConnection.class
+projects\ProjectsApp.class
+projects\exception\DbException.class
+mavenProject\newTester.class
